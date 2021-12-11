@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Creando una aplicación con React
+
+<h3>Con esta ejercitación ponemos en practica la creación de componentes que nos ofrece React, migrando un HTML a componentes reutilizables</h3>
+
+<h2>Imagenes previas del desafio<h2>
+
+<p>Dashboard - DH Movies</p>
+<img src="https://github.com/Creando-una-aplicacion-con-React/blob/master/primer-proyecto-react/src/assets/images/dashboard.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
