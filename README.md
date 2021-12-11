@@ -5,7 +5,7 @@
 <h2>Imagenes previas del desafio<h2>
 
 <p>Dashboard - DH Movies</p>
-<img src="https://github.com/Creando-una-aplicacion-con-React/blob/master/primer-proyecto-react/src/assets/images/dashboard.png">
+<img src="https://github.com/Creando-una-aplicacion-con-React/blob/master/src/assets/images/dashboard.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
